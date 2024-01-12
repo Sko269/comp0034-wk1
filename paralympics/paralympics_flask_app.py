@@ -12,4 +12,4 @@ def hello_world(name):
 if __name__ == '__main__':
     paralympics_app.run(debug=True)
 
-# Run by using the link http://127.0.0.1:5000/name eg http://127.0.0.1:5000/Shane
+# Run by using the link & changing http://127.0.0.1:5000/name eg http://127.0.0.1:5000/Shane
